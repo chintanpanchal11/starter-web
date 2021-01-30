@@ -1,3 +1,4 @@
 file_To_ignore.txt
 *.log
 log/
+*.orig
